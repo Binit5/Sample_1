@@ -1,0 +1,11 @@
+a=[12,12,12,23,23,3,4,5656,67,67,67]
+a.sort()
+print(a)
+print(a)
+print(a)
+print(a)
+print(a)
+print(a)
+print(a)
+print(a)
+print(a)
